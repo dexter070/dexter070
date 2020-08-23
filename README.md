@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="OneUber | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="discord | Discord" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/discord/discord.png" />][discord]
+[<img align="left" alt="discord | Discord" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/discord/discord.png" />][d]
 
 
 <br />
