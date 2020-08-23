@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="dexter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="dexter | Discord" width="26px" src="ttps://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord] 
+[<img align="left" alt="dexter | Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord] 
 
 <br />
 
