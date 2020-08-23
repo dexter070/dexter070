@@ -1,4 +1,4 @@
-### Hi there, I'm Liam aka Uber and this is my little introduction to me👋
+### hi there, im dexter
 
 - 🔭 I’m currently working on Eden.rip and HcPython
 - 🌱 I’m currently learning everything 🤣
@@ -11,7 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="OneUber | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="OneUber | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="discord | Discord" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][twitter]
 
 
 <br />
