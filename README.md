@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="OneUber | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-
+[<img align="left" alt="dexter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="dexter | Discord" width="26px" src="ttps://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord] 
 
 <br />
 
@@ -20,6 +20,6 @@
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 
-
+[discord]: https://discord.gg/SxKtKN8
 [twitter]: https://twitter.com/oneUber
 [webdevplaylist]: https://www.google.com
