@@ -3,7 +3,7 @@
 - 🌱 i’m currently learning everything 
 
 ### spotify playing
-[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Liam's Spotify Playing" width="350" />](https://open.spotify.com/user/stefanevers932)
+[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="dexter's spotify playing" width="350" />](https://open.spotify.com/user/Brunin)
 
 ### contact with me:
 
@@ -21,5 +21,5 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][default]
 
 [discord]: https://discord.gg/SxKtKN8
-[twitter]: https://twitter.com/oneUber
+[twitter]: https://twitter.com/dexter0001_
 [default]: https://www.google.com
