@@ -2,7 +2,7 @@
 
 - 🌱 i’m currently learning everything 
 
-### Spotify Playing 🎧
+### Spotify Playing
 [<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Liam's Spotify Playing" width="350" />](https://open.spotify.com/user/stefanevers932)
 
 ### Connect with me:
@@ -20,19 +20,6 @@
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 
-<br />
-<br />
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Uber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UberDevo&count_private=true&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/oneUber
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [webdevplaylist]: https://www.google.com
