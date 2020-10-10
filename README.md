@@ -1,25 +1,9 @@
-### hi there, im dexter
+<div align="center">
 
-- 🌱 i’m currently learning everything 
+# h3x
 
-### spotify playing
-[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="dexter's spotify playing" width="350" />](https://open.spotify.com/user/Brunin)
+[![email: h3x1fy@protonmail.com](https://img.shields.io/static/v1?label=Email&message=%20&color=8B89CC&labelColor=8B89CC&logoColor=FFF&style=for-the-badge&logo=protonmail)](mailto:h3x1fy@protonmail.com)
+[![telegram: h3x1fy](https://img.shields.io/static/v1?label=Telegram&message=%20&color=2CA5E0&labelColor=2CA5E0&logoColor=FFF&style=for-the-badge&logo=telegram)](https://t.me/h3x1fy)
+![discord](https://img.shields.io/static/v1?label=h3x%230001&message=%20&color=7289DA&labelColor=7289DA&logoColor=FFF&style=for-the-badge&logo=discord)
 
-### contact with me:
-
-[<img align="left" alt="dexter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="dexter | Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord] 
-
-<br />
-
-### languages and tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][default]
-[<img align="left" alt="Visual Studio" width="29px" src="https://raw.githubusercontent.com/patevs/dotfiles/master/wt/icons/visual-studio.png" />][default]
-[<img align="left" alt="Intellij Idea Ultimate" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][default]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][default]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][default]
-
-[discord]: https://discord.gg/SxKtKN8
-[twitter]: https://twitter.com/dexter0001_
-[default]: https://www.google.com
+</div>
